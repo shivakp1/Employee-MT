@@ -10,8 +10,8 @@ public class EmployeeRegistrationApplication {
 		SpringApplication.run(EmployeeRegistrationApplication.class, args);
 	}
 
-	// jdscdsocj
-	// jdscdsocj
+	// jdscdsocj2
+	// jdscdsocj2
 }
 //mastersq
 //testsq
